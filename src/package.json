@@ -2,9 +2,9 @@
   "name": "timberwolf",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "block.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
