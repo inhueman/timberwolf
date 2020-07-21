@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/inhueman/timberwolf#readme",
   "devDependencies": {
+<<<<<<< HEAD:package.json
     "jest": "^25.5.4"
+=======
+    "jest": "^25.1.0"
+>>>>>>> a9d829c031d35cf15948e6dd1e42870614c56666:src/package.json
   }
 }
